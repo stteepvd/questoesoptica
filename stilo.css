@@ -1,0 +1,42 @@
+body {
+    margin:0;
+    padding:0;
+    color:rgb(0, 0, 0);
+    background:rgba(240, 144, 184, 0.822)
+}
+#geral {
+    width:960px;
+    margin:0 auto;
+    background:rgb(179, 134, 216);
+    
+}
+#cabecalho {
+    padding:10px;
+    background:rgb(157, 214, 162);
+}
+#conteudo-1 {
+    float:left;
+    width:558px;
+    padding:10px;
+    background:#bfb;
+}
+#conteudo-2 {
+    float:right;
+    padding:10px;
+    width:720px;
+    background:rgb(179, 134, 216);
+}
+
+
+#conteudo-2-2 {
+    float:right;
+    width:900px;
+    padding:10px;
+    background:rgb(167, 235, 235);
+}
+#rodape {
+    clear:both;
+    padding:10px;
+    background:#ff9;
+}
+
